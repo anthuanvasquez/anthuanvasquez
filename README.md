@@ -1,6 +1,6 @@
 # Front End / Web Developer. <img src="https://github-readme-stats.vercel.app/api?username=anthuanvasquez&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="440" align="right">
 
-- 🤹 Networking 👉 <a href="https://www.linkedin.com/in/anthuanvasquez/">LinkdIn</a>
+- 🤹 Networking 👉 <a href="https://www.linkedin.com/in/anthuanvasquez/">LinkedIn</a>
 - 💻 Collaborating on some open-source projects
 - 🎹 Creating music as <a href="https://oidoperfecto.net/">Oido Perfecto</a>
 - 📱 Building my personal brand :)
