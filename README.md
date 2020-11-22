@@ -7,3 +7,5 @@
 - 😋 Fan of Dragon Ball Z, Super :)
 - 👶 Being a father.
 - ✏️ Learning new things.
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anthuanvasquez)](https://github.com/anuraghazra/github-readme-stats)
