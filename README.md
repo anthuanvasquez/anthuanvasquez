@@ -5,4 +5,4 @@
 - 📱 Building my personal brand :).
 - 📚 Reading some books.
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anthuanvasquez&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="440" align="right">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anthuanvasquez&show_icons=true&hide_border=true&count_private=true&layout=compact" alt="Stats" width="440" align="right">
