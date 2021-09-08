@@ -1,4 +1,6 @@
-# Front End / Web Developer. <img src="https://github-readme-stats.vercel.app/api?username=anthuanvasquez&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="440" align="right">
+# Front End / Web Developer. 
+
+Hi, I'm Anthuan! I'm a web developer that hate the web 😕.
 
 - 🤹 Networking 👉 <a href="https://www.linkedin.com/in/anthuanvasquez/">LinkedIn</a>
 - 💻 Collaborating on some open-source projects
@@ -7,7 +9,15 @@
 - 📚 Reading some books
 - 💡 Spending my time in be creative
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=anthuanvasquez&show_icons=true&hide_border=true&count_private=true&layout=compact" alt="Stats" width="440" align="right">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anthuanvasquez&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="440">
+<p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anthuanvasquez&show_icons=true&hide_border=true&count_private=true&layout=compact" alt="Stats" width="440">
+<p>
+
+***
 
 ### About Me
 
