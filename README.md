@@ -10,11 +10,11 @@ Hi, I'm Anthuan! I'm a web developer that hate the web 😕.
 - 💡 Spending my time in be creative
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthuanvasquez&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="440">
+  <img src="https://github-readme-stats.vercel.app/api?username=anthuanvasquez&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&theme=material-palenight" alt="Stats" width="440">
 <p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anthuanvasquez&show_icons=true&hide_border=true&count_private=true&layout=compact" alt="Stats" width="440">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anthuanvasquez&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=material-palenight" alt="Stats" width="440">
 <p>
 
 ***
