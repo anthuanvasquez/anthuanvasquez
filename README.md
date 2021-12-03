@@ -1,6 +1,10 @@
-# Front End / Web Developer. 
+# Front End / Web Developer
 
-Hi, I'm Anthuan! I'm a web developer that hate the web 😕.
+[![wakatime](https://wakatime.com/badge/user/64dcd9f5-b76b-4def-8fea-8020ebac03de.svg)](https://wakatime.com/@64dcd9f5-b76b-4def-8fea-8020ebac03de)
+
+#### Hi there 👋 
+
+I'm a web developer that hate the web 😕
 
 - 🤹 Networking 👉 <a href="https://www.linkedin.com/in/anthuanvasquez/">LinkedIn</a>
 - 💻 Collaborating on some open-source projects
@@ -9,12 +13,8 @@ Hi, I'm Anthuan! I'm a web developer that hate the web 😕.
 - 📚 Reading some books
 - 💡 Spending my time in be creative
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anthuanvasquez&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&theme=material-palenight" alt="Stats" width="440">
 <p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=anthuanvasquez&show_icons=true&hide_border=true&count_private=true&layout=compact&theme=material-palenight" alt="Stats" width="440">
+  <img src="https://github-readme-stats.vercel.app/api?username=anthuanvasquez&show_icons=true&count_private=true&hide_border=true&cache_seconds=86400&theme=material-palenight">
 <p>
 
 ***
