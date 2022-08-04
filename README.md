@@ -7,10 +7,10 @@
 I'm a web developer that hate the web 😕
 
 - 🤹 Networking 👉 <a href="https://www.linkedin.com/in/anthuanvasquez/">LinkedIn</a>
-- 💻 Collaborating on some open-source projects
+- 💻 Collaborating on some open-source projects...
 - 🎹 Creating music as <a href="https://oidoperfecto.net/">Oido Perfecto</a>
 - 📱 Building my personal brand :)
-- 📚 Reading some books
+- 📚 Reading some books...
 - 💡 Spending my time in be creative
 
 <p>
@@ -21,4 +21,8 @@ I'm a web developer that hate the web 😕
 
 ### About Me
 
-I'm a guy passionate for the technology, honest and a self-taught Front-End Developer. I consider myself as a person with initiative, who loves to take on new responsibilities, learning new things and face great challanges. I have 10 years of experience in the web industry.
+Passionate for technology. I consider myself as a person with initiative, who loves to take on new responsibilities, learn new things and face great challenges.
+
+10 years of experience in the web industry. Solid front-end knowledge of VueJs, ES6, HTML5, CSS3+, and Web Accessibility. Strong understanding of design principles, UI/UX, Advanced CSS (CSS Modules, SASS) and responsive Design. Strong understanding of back-end technologies, NodeJs, PHP and SQL or No SQL Database. Vast experience with e-commerce software, BigCommerce Certified and experienced in devops technologies including microservices architecture and docker.
+
+Positive attitude, strong work ethic, organization and team leadership, a drive for results while focusing on high code quality.
