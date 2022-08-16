@@ -68,18 +68,21 @@
 
 <hr />
 
-## Trophies
+<details>
+  <summary>Github Trophies 🏆</summary>
+  <p>&nbsp;</p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthuanvasquez&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="anthuanvasquez" /></a> </p>
+</details>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthuanvasquez&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="anthuanvasquez" /></a> </p>
+<details>
+  <summary>Github Stats ⚡</summary>
+  <p>&nbsp;</p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthuanvasquez&show_icons=true&locale=en&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="anthuanvasquez" /</p>
 
+  <p><img src="https://github-readme-stats.vercel.app/api?username=anthuanvasquez&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="anthuanvasquez" /></p>
 
-## Stats
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthuanvasquez&show_icons=true&locale=en&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true" alt="anthuanvasquez" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=anthuanvasquez&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="anthuanvasquez" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=anthuanvasquez&theme=tokyonight" alt="anthuanvasquez" /></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=anthuanvasquez&theme=tokyonight" alt="anthuanvasquez" /></p>
+</details>
 
 <hr />
 
