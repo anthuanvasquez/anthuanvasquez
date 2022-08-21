@@ -87,8 +87,8 @@
 <hr />
 
 ## About Me
-Passionate for technology. I consider myself as a person with initiative, who loves to take on new responsibilities, learn new things and face great challenges.
+Enthusiastic about technology. Independent thinker who enjoys taking on new challenges. As well on try new skills, and showing initiative.
 
-10 years of experience in the web industry. Solid front-end knowledge of VueJs, ES6, HTML5, CSS3+, and Web Accessibility. Strong understanding of design principles, UI/UX, Advanced CSS (CSS Modules, SASS) and responsive Design. Strong understanding of back-end technologies, NodeJs, PHP and SQL or No SQL Database. Vast experience with e-commerce software, BigCommerce Certified and experienced in devops technologies including microservices architecture and docker.
+Over a decade of experience working in the web industry. Competent in analyzing business needs and development approaches for long and short-term success. A commitment to high availability, robustness, and scalability. Solid skills with front-end technologies like VueJs, ES6, HTML5, CSS3+, and Web Accessibility. Strong command of UI/UX, advanced CSS (CSS Modules, SASS), and responsive design ideas. Solid working knowledge of Node.js, PHP, and SQL or No SQL databases. extensive knowledge of e-commerce software. BigCommerce certification, and good skills for DevOps tools including microservices architecture and Docker.
 
-Positive attitude, strong work ethic, organization and team leadership, a drive for results while focusing on high code quality.
+Positive attitude, excellent work ethic, organization, and team management. Together with a focus on superior code quality and a drive for achievements.
