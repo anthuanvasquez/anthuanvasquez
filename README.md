@@ -28,7 +28,7 @@
 ### Front-End
 
 <p align="lef">
-  <a href="https://skillicons.dev">
+  <a href="https://en.wikipedia.org/wiki/Frontend_and_backend">
     <img src="https://skillicons.dev/icons?i=bootstrap,css,sass,html,javascript,vue,webpack,wordpress,jquery" />
   </a>
 </p>
@@ -36,7 +36,7 @@
 ### Backend-End
 
 <p align="lef">
-  <a href="https://skillicons.dev">
+  <a href="https://en.wikipedia.org/wiki/Frontend_and_backend">
     <img src="https://skillicons.dev/icons?i=express,graphql,laravel,mongodb,mysql,nodejs,nuxtjs,php" />
   </a>
 </p>
@@ -44,7 +44,7 @@
 ### DevOps
 
 <p align="lef">
-  <a href="https://skillicons.dev">
+  <a href="https://en.wikipedia.org/wiki/DevOps">
     <img src="https://skillicons.dev/icons?i=bash,docker,git,linux,cloudflare,nginx" />
   </a>
 </p>
@@ -52,7 +52,7 @@
 ### Tools / Services
 
 <p align="lef">
-  <a href="https://skillicons.dev">
+  <a href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=github,vscode,ps" />
   </a>
 </p>
@@ -60,7 +60,7 @@
 ### I Want to Learn
 
 <p align="lef">
-  <a href="https://skillicons.dev">
+  <a href="https://nestjs.com/">
     <img src="https://skillicons.dev/icons?i=nestjs,typescript,tensorflow" />
   </a>
 </p>
