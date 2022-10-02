@@ -5,11 +5,12 @@
 ## Hi 👋, I'm Anthuan Vasquez
 ### I'm a web engineer that hate the web 😕
 
-- 🌱 I’m currently learning **NestJS, Tensorflow.js, TypeScript, Docker, MongoDB**
+- 🌱 I’m currently learning **Rust, NestJS, Tensorflow.js, TypeScript, Docker, MongoDB**
 - 👨‍💻 All of my projects are available at [https://anthuanvasquez.net/](https://anthuanvasquez.net/)
 - 💬 Ask me about **javascript**
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/anthuanvasquez/)
 - 🎹 Creating music as [Oido Perfecto](https://oidoperfecto.net/)
+- 📘 Reading about **Will** by *Will Smith*
 
 <hr />
 
@@ -61,7 +62,7 @@
 
 <p align="lef">
   <a href="https://nestjs.com/">
-    <img src="https://skillicons.dev/icons?i=nestjs,typescript,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=rust,nestjs,typescript,tensorflow" />
   </a>
 </p>
 
