@@ -4,6 +4,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/64dcd9f5-b76b-4def-8fea-8020ebac03de.svg)](https://wakatime.com/@64dcd9f5-b76b-4def-8fea-8020ebac03de)
 
+[![committers.top badge](https://user-badge.committers.top/dominican_republic_private/anthuanvasquez.svg)](https://user-badge.committers.top/dominican_republic_private/anthuanvasquez
+)
+
+
 ## Howdy! 👋 I'm Anthuan Vasquez
 ### A web engineer navigating the vast seas of the internet with a love-hate relationship with the web 😕
 
