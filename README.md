@@ -1,15 +1,7 @@
-# Senior Web Engineer
+# Software Engineer
 
-### And Counting! ⏱️💻
-
-[![wakatime](https://wakatime.com/badge/user/64dcd9f5-b76b-4def-8fea-8020ebac03de.svg)](https://wakatime.com/@64dcd9f5-b76b-4def-8fea-8020ebac03de)
-
-[![committers.top badge](https://user-badge.committers.top/dominican_republic_private/anthuanvasquez.svg)](https://user-badge.committers.top/dominican_republic_private/anthuanvasquez
-)
-
-
-## Howdy! 👋 I'm Anthuan Vasquez
-### A web engineer navigating the vast seas of the internet with a love-hate relationship with the web 😕
+## Howdy! 👋 Anthuan Vasquez here!
+### A software engineer navigating the vast seas of the internet with a love-hate relationship with the web 😕
 
 - 🌱 Currently cultivating skills in **Rust, NestJS, Go, C++**
 - 👨‍💻 My digital playground resides at [https://anthuanvasquez.net/](https://anthuanvasquez.net/)
@@ -18,12 +10,16 @@
 - 🎹 Crafting melodies as [Oido Perfecto](https://oidoperfecto.net/)
 - 📘 Currently engrossed in **El Sutil Arte De Que Te Importe Un Carajo** by *Mark Manson*; meta, right?
 
+### And Counting! ⏱️💻
+
+[![wakatime](https://wakatime.com/badge/user/64dcd9f5-b76b-4def-8fea-8020ebac03de.svg)](https://wakatime.com/@64dcd9f5-b76b-4def-8fea-8020ebac03de) [![committers.top badge](https://user-badge.committers.top/dominican_republic_private/anthuanvasquez.svg)](https://user-badge.committers.top/dominican_republic_private/anthuanvasquez) ![](https://komarev.com/ghpvc/?username=anthuanvasquez&style=flat-square)
+
 <hr />
 
 ## Connect with me
 
 <p align="left">
-<a href="https://codepen.io/oidoperfecto" target="blank"><img src="https://skillicons.dev/icons?i=codepen" /></a>
+<a href="https://codepen.io/anthuanvasquez" target="blank"><img src="https://skillicons.dev/icons?i=codepen" /></a>
 <a href="https://linkedin.com/in/anthuanvasquez" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://stackoverflow.com/users/1639771" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
 </p>
