@@ -19,7 +19,6 @@
 ## Connect with me
 
 <p align="left">
-<a href="https://codepen.io/anthuanvasquez" target="blank"><img src="https://skillicons.dev/icons?i=codepen" /></a>
 <a href="https://linkedin.com/in/anthuanvasquez" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://stackoverflow.com/users/1639771" target="blank"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
 </p>
