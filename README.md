@@ -1,22 +1,22 @@
 # Software Engineer
 
-## Howdy! 👋 Anthuan Vasquez here!
+## Howdy! 👋 Anthuan Vasquez!
+
 ### A software engineer navigating the vast seas of the internet with a love-hate relationship with the web 😕
 
-- 🌱 Currently cultivating skills in **Rust, NestJS, Go, C++**
 - 👨‍💻 My digital playground resides at [https://anthuanvasquez.net/](https://anthuanvasquez.net/)
 - 💬 Ask me anything about **javascript**; I promise to decode it from "alien" to "human"
-- 📄 Check out my professional endeavors on [LinkedIn](https://www.linkedin.com/in/anthuanvasquez/)
-- 🎹 Crafting melodies as [Oido Perfecto](https://oidoperfecto.net/)
-- 📘 Currently engrossed in **El Sutil Arte De Que Te Importe Un Carajo** by *Mark Manson*; meta, right?
+- 📄 Check out my professional profile on [LinkedIn](https://www.linkedin.com/in/anthuanvasquez/)
+- 🎹 Creating melodies as [Oido Perfecto](https://oidoperfecto.net/)
+- 📘 Currently reading in **Generacion Idiota** by *Agustin Laje*; meta, right?
 
-### And Counting! ⏱️💻
+### Stats! ⏱️💻
 
 [![wakatime](https://wakatime.com/badge/user/64dcd9f5-b76b-4def-8fea-8020ebac03de.svg)](https://wakatime.com/@64dcd9f5-b76b-4def-8fea-8020ebac03de) [![committers.top badge](https://user-badge.committers.top/dominican_republic_private/anthuanvasquez.svg)](https://user-badge.committers.top/dominican_republic_private/anthuanvasquez) ![](https://komarev.com/ghpvc/?username=anthuanvasquez&style=flat-square)
 
 <hr />
 
-## Connect with me
+## Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/anthuanvasquez" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
@@ -27,23 +27,23 @@
 
 ## Skills
 
-### Front-End Wizardry
+### Front-End
 
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/Frontend_and_backend">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css,sass,html,javascript,vue,pinia,vite,cypress,react,webpack,wordpress,jquery" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css,sass,html,javascript,vue,angular,typescript,pinia,vite,cypress,react,webpack,wordpress,jquery" />
   </a>
 </p>
 
-### Back-End Sorcery
+### Back-End
 
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/Frontend_and_backend">
-    <img src="https://skillicons.dev/icons?i=express,graphql,laravel,mongodb,mysql,nodejs,nuxtjs,nextjs,php" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,laravel,mongodb,mysql,nuxtjs,nextjs,php" />
   </a>
 </p>
 
-### DevOps Enchantment
+### DevOps
 
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/DevOps">
@@ -51,7 +51,7 @@
   </a>
 </p>
 
-### Tools / Services I Tame
+### Tools
 
 <p align="left">
   <a href="https://code.visualstudio.com/">
@@ -59,11 +59,11 @@
   </a>
 </p>
 
-### I Yearn to Learn
+### Learning
 
 <p align="left">
   <a href="https://nestjs.com/">
-    <img src="https://skillicons.dev/icons?i=rust,nestjs,typescript,tensorflow,cpp" />
+    <img src="https://skillicons.dev/icons?i=rust,tensorflow,cpp" />
   </a>
 </p>
 
