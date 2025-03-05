@@ -8,7 +8,7 @@
 - 💬 Ask me anything about **javascript**; I promise to decode it from "alien" to "human"
 - 📄 Check out my professional profile on [LinkedIn](https://www.linkedin.com/in/anthuanvasquez/)
 - 🎹 Creating melodies as [Oido Perfecto](https://oidoperfecto.net/)
-- 📘 Currently reading in **Generacion Idiota** by *Agustin Laje*; meta, right?
+- 📘 Currently reading in **Generacion Idiota** by *Agustin Laje*
 
 ### Stats! ⏱️💻
 
