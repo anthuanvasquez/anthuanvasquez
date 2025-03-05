@@ -47,7 +47,7 @@
 
 <p align="left">
   <a href="https://en.wikipedia.org/wiki/DevOps">
-    <img src="https://skillicons.dev/icons?i=bash,docker,git,githubactions,linux,aws,cloudflare,nginx,apple,windows" />
+    <img src="https://skillicons.dev/icons?i=bash,docker,git,githubactions,linux,ubuntu,aws,cloudflare,nginx,apple,windows" />
   </a>
 </p>
 
