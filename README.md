@@ -14,44 +14,40 @@
 
 ## Skills
 
-### Front-End
+### Front
 
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/Frontend_and_backend">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css,sass,html,javascript,vue,angular,typescript,pinia,vite,cypress,react,webpack,wordpress,jquery" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css,sass,html,javascript,vue,vite,angular,typescript,react,astro,webpack,jquery" />
 </p>
 
-### Back-End
+### Back
 
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/Frontend_and_backend">
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,laravel,mongodb,mysql,nuxtjs,nextjs,php" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,npm,pnpm,nestjs,express,graphql,laravel,mongodb,mysql,postgres,nuxtjs,nextjs,php,wordpress" />
+</p>
+
+### Tests
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest,cypress,vitest" />
 </p>
 
 ### DevOps
 
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/DevOps">
-    <img src="https://skillicons.dev/icons?i=bash,docker,git,githubactions,linux,ubuntu,aws,cloudflare,nginx,apple,windows" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=bash,docker,git,githubactions,linux,ubuntu,aws,cloudflare,nginx" />
 </p>
 
 ### Tools
 
 <p align="left">
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,vscode,ps,figma,notion,npm" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=github,gitlab,vscode,ps,figma,notion,apple,windows" />
 </p>
 
-### Learning
+### Wishlist
 
 <p align="left">
-  <a href="https://nestjs.com/">
-    <img src="https://skillicons.dev/icons?i=rust,tensorflow,cpp" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=rust,tensorflow,cpp,cmake,python,deno,redis" />
 </p>
 
 <hr />
