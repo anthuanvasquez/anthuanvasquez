@@ -10,9 +10,7 @@
 - 🎹 Creating melodies as [Oido Perfecto](https://oidoperfecto.net/)
 - 📘 Currently reading in **Generacion Idiota** by *Agustin Laje*
 
-<hr />
-
-## Skills
+## SKILLS
 
 ### Front
 
@@ -50,9 +48,7 @@
   <img src="https://skillicons.dev/icons?i=rust,tensorflow,cpp,cmake,python,deno,redis" />
 </p>
 
-<hr />
-
-### Stats! ⏱️💻
+## STATS
 
 [![wakatime](https://wakatime.com/badge/user/64dcd9f5-b76b-4def-8fea-8020ebac03de.svg)](https://wakatime.com/@64dcd9f5-b76b-4def-8fea-8020ebac03de) [![committers.top badge](https://user-badge.committers.top/dominican_republic_private/anthuanvasquez.svg)](https://user-badge.committers.top/dominican_republic_private/anthuanvasquez) ![](https://komarev.com/ghpvc/?username=anthuanvasquez&style=flat-square)
 
@@ -72,9 +68,7 @@
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=anthuanvasquez&theme=tokyonight" alt="anthuanvasquez" /></p>
 </details>
 
-<hr />
-
-## About Me
+## ABOUT
 
 <div align="left">
   <a href="https://app.daily.dev/anthuanvsquez"><img src="https://api.daily.dev/devcards/v2/5hPcCptiXQ0i5WKLS30oq.png?type=default&r=kte" align="right" width="356" alt="Anthuan Vásquez's Dev Card"/></a>
