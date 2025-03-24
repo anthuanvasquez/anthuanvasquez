@@ -68,6 +68,8 @@
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=anthuanvasquez&theme=tokyonight" alt="anthuanvasquez" /></p>
 </details>
 
+[![Anthuan Vasquez StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1639771&layout=compact)](https://stackoverflow.com/users/1639771/anthuan-vasquez)
+
 ## ABOUT
 
 <div align="left">
