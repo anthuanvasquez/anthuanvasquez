@@ -9,6 +9,7 @@
 - 📄 Check out my professional profile on [LinkedIn](https://www.linkedin.com/in/anthuanvasquez/)
 - 🎹 Creating melodies as [Oido Perfecto](https://oidoperfecto.net/)
 - 📘 Currently reading in **Generacion Idiota** by *Agustin Laje*
+- 🎓 Currently learning [Swift](https://developer.apple.com/swift/)
 
 ## SKILLS
 
@@ -45,7 +46,7 @@
 ### Wishlist
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=rust,tensorflow,cpp,cmake,python,deno,redis" />
+  <img src="https://skillicons.dev/icons?i=swift,kotlin,python,rust,cpp,cmake,deno,redis" />
 </p>
 
 ## STATS
