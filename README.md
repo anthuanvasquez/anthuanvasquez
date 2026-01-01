@@ -56,7 +56,7 @@
 <details>
   <summary>Github Trophies 🏆</summary>
   <p>&nbsp;</p>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthuanvasquez&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="anthuanvasquez" /></a> </p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthuanvasquez&theme=darkhub" alt="anthuanvasquez" /></a> </p>
 </details>
 
 <details>
@@ -70,6 +70,10 @@
 </details>
 
 [![Anthuan Vasquez StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1639771&layout=compact)](https://stackoverflow.com/users/1639771/anthuan-vasquez)
+
+## CHART
+
+<img width="auto" height="4110" alt="chart contribution" src="https://github.com/user-attachments/assets/fc8fa6f7-8039-487e-b6aa-72d657c55b05" />
 
 ## ABOUT
 
