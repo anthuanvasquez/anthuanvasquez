@@ -53,6 +53,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/64dcd9f5-b76b-4def-8fea-8020ebac03de.svg)](https://wakatime.com/@64dcd9f5-b76b-4def-8fea-8020ebac03de) [![committers.top badge](https://user-badge.committers.top/dominican_republic_private/anthuanvasquez.svg)](https://user-badge.committers.top/dominican_republic_private/anthuanvasquez) ![](https://komarev.com/ghpvc/?username=anthuanvasquez&style=flat-square)
 
+[![Anthuan Vasquez StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1639771&layout=compact)](https://stackoverflow.com/users/1639771/anthuan-vasquez)
+
 <details>
   <summary>Github Trophies 🏆</summary>
   <p>&nbsp;</p>
@@ -68,8 +70,6 @@
 
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=anthuanvasquez&theme=tokyonight" alt="anthuanvasquez" /></p>
 </details>
-
-[![Anthuan Vasquez StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1639771&layout=compact)](https://stackoverflow.com/users/1639771/anthuan-vasquez)
 
 ## CHART
 
