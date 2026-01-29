@@ -4,7 +4,7 @@ Howdy 👋 I’m Anthuan Vasquez, a software engineer building scalable web apps
 
 ## 🚀 Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,angular,react,tailwind,nodejs,nestjs,postgres,docker,git,aws" />
+  <img src="https://skillicons.dev/icons?i=typescript,angular,react,tailwind,nodejs,nestjs,wordpress,postgres,docker,git,aws" />
 </p>
 
 ### 📚 Learning
