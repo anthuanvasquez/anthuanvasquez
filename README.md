@@ -1,10 +1,10 @@
-# Full-Stack TypeScript Engineer · Angular · React · Node · AWS
+# Howdy 👋 I’m Anthuan
 
-Howdy 👋 I’m Anthuan Vasquez, a software engineer building scalable web apps and APIs
+Full-Stack JavaScript Engineer, a software engineer building scalable web apps and APIs.
 
 ## 🚀 Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,angular,react,tailwind,nodejs,nestjs,wordpress,postgres,docker,git,aws" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,angular,react,tailwind,nodejs,nestjs,php,postgres,docker,git" />
 </p>
 
 ### 📚 Learning
