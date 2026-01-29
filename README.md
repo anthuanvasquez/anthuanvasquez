@@ -27,3 +27,13 @@ I care about clean architecture, DX, accessibility, and products that solve real
   <a href="https://linkedin.com/in/anthuanvasquez"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://stackoverflow.com/users/1639771"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
 </p>
+
+## Legacy Projects
+
+* 🧩 [anva-widgets-pack](https://github.com/anthuanvasquez/anva-widgets-pack) — WordPress plugin to create a pack of commonly used widgets.
+* ⚡ [anva-shortcodes](https://github.com/anthuanvasquez/anva-shortcodes-pack) — WordPress plugin to create a pack of commonly used shortcodes.
+* 💰 [anv-loan-calculator](https://github.com/anthuanvasquez/anva-loan-calculator) — WordPress plugin to create a loan calculator form and send reports.
+* 🍽️ [anva-foodlist](https://github.com/anthuanvasquez/anva-foodlist) — WordPress plugin to create a custom menu for the Foodlist plugin.
+* 🚀 [anva-start-blank](https://github.com/anthuanvasquez/anva-start-blank) — WordPress starter theme with base options.
+* 🔐 [anva-custom-login](https://github.com/anthuanvasquez/anva-custom-login) — WordPress plugin to customize the login page.
+* 🗂️ [anva-post-types](https://github.com/anthuanvasquez/anva-post-types) — WordPress plugin to manage multiple custom post types for common entities.
