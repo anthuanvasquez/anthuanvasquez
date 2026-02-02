@@ -1,6 +1,6 @@
 # Howdy 👋 I’m Anthuan
 
-Full-Stack JavaScript Engineer, a software engineer building scalable web apps and APIs.
+Full-Stack Engineer, a software engineer building scalable web apps and APIs.
 
 ## 🚀 Skills
 <p align="left">
