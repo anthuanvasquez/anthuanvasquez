@@ -7,7 +7,7 @@ Full-Stack Engineer, a software engineer building scalable web apps and APIs.
   <img src="https://skillicons.dev/icons?i=typescript,javascript,angular,react,tailwind,nodejs,nestjs,php,postgres,docker,git" />
 </p>
 
-### 📚 Learning
+## 📚 Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=swift" />
 </p>
@@ -19,9 +19,9 @@ Full-Stack Engineer, a software engineer building scalable web apps and APIs.
 ## 👨‍💻 About Me
 
 Full-stack engineer with 10+ years building scalable web apps and APIs.  
-Focused on TypeScript, Angular, React, Node/NestJS and cloud infrastructure on AWS.
+Focused on TypeScript, Angular, React, Node/NestJS and cloud infrastructure.
 
-I care about clean architecture, DX, accessibility, and products that solve real business problems.
+I care about clean architecture, DDD, DX, a11y, and products that solve real business problems.
 
 <p align="left">
   <a href="https://linkedin.com/in/anthuanvasquez"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
