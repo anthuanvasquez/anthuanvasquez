@@ -32,7 +32,7 @@ I care about clean architecture, DX, accessibility, and products that solve real
 
 * 🧩 [anva-widgets-pack](https://github.com/anthuanvasquez/anva-widgets-pack) — WordPress plugin to create a pack of commonly used widgets.
 * ⚡ [anva-shortcodes](https://github.com/anthuanvasquez/anva-shortcodes-pack) — WordPress plugin to create a pack of commonly used shortcodes.
-* 💰 [anv-loan-calculator](https://github.com/anthuanvasquez/anva-loan-calculator) — WordPress plugin to create a loan calculator form and send reports.
+* 💰 [anva-loan-calculator](https://github.com/anthuanvasquez/anva-loan-calculator) — WordPress plugin to create a loan calculator form and send reports.
 * 🍽️ [anva-foodlist](https://github.com/anthuanvasquez/anva-foodlist) — WordPress plugin to create a custom menu for the Foodlist plugin.
 * 🚀 [anva-start-blank](https://github.com/anthuanvasquez/anva-start-blank) — WordPress starter theme with base options.
 * 🔐 [anva-custom-login](https://github.com/anthuanvasquez/anva-custom-login) — WordPress plugin to customize the login page.
