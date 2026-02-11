@@ -28,6 +28,10 @@ I care about clean architecture, DDD, DX, a11y, and products that solve real bus
   <a href="https://stackoverflow.com/users/1639771"><img src="https://skillicons.dev/icons?i=stackoverflow" /></a>
 </p>
 
+## Currently Projects
+
+* 📝 [devlogs](https://github.com/anthuanvasquez/devlogs) - Generates daily commit reports and sends them to Discord or whatever you want.
+
 ## Legacy Projects
 
 * 🧩 [anva-widgets-pack](https://github.com/anthuanvasquez/anva-widgets-pack) — WordPress plugin to create a pack of commonly used widgets.
