@@ -30,6 +30,10 @@ I care about clean architecture, DDD, DX, a11y, and products that solve real bus
 
 ## Currently Projects
 
+* 🌎 [anthuanvasquez.net](https://github.com/anthuanvasquez/anthuanvasquez.net) - Personal site based on Nuxt.js.
+* 💻 [mac-dev-setup](https://github.com/anthuanvasquez/mac-dev-setup) - A macOS setup guide for web development.
+* 🪪 [ng-dynamic-form-field](https://github.com/anthuanvasquez/ng-dynamic-form-field) - POC Angular Dynamic Form Fields.
+* ⌨️ [git-environment](https://github.com/anthuanvasquez/git-environment) - Workspace with SSH and GPG git setup.
 * 📝 [devlogs](https://github.com/anthuanvasquez/devlogs) - Generates daily commit reports and sends them to Discord or whatever you want.
 
 ## Legacy Projects
