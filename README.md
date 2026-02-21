@@ -4,12 +4,7 @@ Full-Stack Engineer, a software engineer building scalable web apps and APIs.
 
 ## 🚀 Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,angular,react,tailwind,nodejs,nestjs,php,postgres,docker,git" />
-</p>
-
-## 📚 Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=swift" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,nestjs,angular,react,nextjs,vue,nuxt,tailwind,postgres,docker,git,linux" />
 </p>
 
 ## 📊 Stats
@@ -18,7 +13,7 @@ Full-Stack Engineer, a software engineer building scalable web apps and APIs.
 
 ## 👨‍💻 About Me
 
-Full-stack engineer with 10+ years building scalable web apps and APIs.  
+Full-stack engineer with 12+ years building scalable web apps and APIs.  
 Focused on TypeScript, Angular, React, Node/NestJS and cloud infrastructure.
 
 I care about clean architecture, DDD, DX, a11y, and products that solve real business problems.
