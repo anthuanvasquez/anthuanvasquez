@@ -4,7 +4,7 @@ Full-Stack Engineer, a software engineer building scalable web apps and APIs.
 
 ## 🚀 Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,nestjs,angular,react,nextjs,vue,nuxt,tailwind,postgres,docker,git,linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,typescript,javascript,nestjs,angular,nextjs,vue,nuxt,tailwind,docker,git,linux" />
 </p>
 
 ## 📊 Stats
