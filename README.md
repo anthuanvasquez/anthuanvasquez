@@ -26,8 +26,9 @@ I care about clean architecture, DDD, DX, a11y, and products that solve real bus
 ## Currently Projects
 
 * 👁️ [vision-night](https://github.com/anthuanvasquez/vision-night-vscode) - VS Code theme for high readability, eye strain reduction, and accessibility.
+* ⌚ [countdown](https://github.com/anthuanvasquez/countdown)
 * 📝 [devlogs](https://github.com/anthuanvasquez/devlogs) - Generates daily commit reports and sends them to Discord or whatever you want.
-* 📅 [timevent](https://github.com/anthuanvasquez/timevent) - Web application that displays a countdown timer to your next Google Calendar event.
+* 📅 [nextcal](https://github.com/anthuanvasquez/nextcal) - Web application that displays a countdown timer to your next Google Calendar event.
 * 🪪 [ng-dynamic-form-field](https://github.com/anthuanvasquez/ng-dynamic-form-field) - POC Angular Dynamic Form Fields.
 * 💻 [dotfiles](https://github.com/anthuanvasquez/dotfiles) - A setup guide and configuration repository for web development.
 * ⌨️ [git-environment](https://github.com/anthuanvasquez/git-environment) - Workspace with SSH and GPG git setup.
