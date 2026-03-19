@@ -1,11 +1,6 @@
 # Howdy 👋 I’m Anthuan
 
-Full-Stack Engineer, a software engineer building scalable web apps and APIs.
-
-## 🚀 Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,express,react,nodejs,typescript,javascript,nestjs,angular,nextjs,vue,nuxt,tailwind,docker,git,linux" />
-</p>
+A software engineer building scalable web apps and APIs.
 
 ## 📊 Stats
 [![Wakatime](https://wakatime.com/badge/user/64dcd9f5-b76b-4def-8fea-8020ebac03de.svg)](https://wakatime.com/@anthuanvasquez?country_code=DO)
@@ -13,7 +8,7 @@ Full-Stack Engineer, a software engineer building scalable web apps and APIs.
 
 ## 👨‍💻 About Me
 
-Full-stack engineer with 12+ years building scalable web apps and APIs.  
+Software engineer with 12+ years building scalable web apps and APIs.  
 Focused on TypeScript, Angular, React, Node/NestJS and cloud infrastructure.
 
 I care about clean architecture, DDD, DX, a11y, and products that solve real business problems.
