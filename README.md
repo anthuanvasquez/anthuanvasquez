@@ -21,6 +21,7 @@ I care about clean architecture, DDD, DX, a11y, and products that solve real bus
 ## Currently Projects
 
 * 👁️ [vision-night](https://github.com/anthuanvasquez/vision-night-vscode) - VS Code theme for high readability, eye strain reduction, and accessibility.
+* 🐘 [gemini-cli-engram](https://github.com/anthuanvasquez/gemini-cli-engram)
 * ⌚ [countdown](https://github.com/anthuanvasquez/countdown)
 * 📝 [devlogs](https://github.com/anthuanvasquez/devlogs) - Generates daily commit reports and sends them to Discord or whatever you want.
 * 📅 [nextcal](https://github.com/anthuanvasquez/nextcal) - Web application that displays a countdown timer to your next Google Calendar event.
