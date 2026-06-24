@@ -4,7 +4,6 @@ A software engineer building scalable web apps and APIs.
 
 ## 📊 Stats
 [![Wakatime](https://wakatime.com/badge/user/64dcd9f5-b76b-4def-8fea-8020ebac03de.svg)](https://wakatime.com/@anthuanvasquez?country_code=DO)
-[![committers.top badge](https://user-badge.committers.top/dominican_republic_private/anthuanvasquez.svg)](https://user-badge.committers.top/dominican_republic_private/anthuanvasquez)
 
 ## 👨‍💻 About Me
 
