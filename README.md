@@ -19,6 +19,7 @@ I care about clean architecture, DDD, DX, a11y, and products that solve real bus
 
 ## Currently Projects
 
+* 🤖 [agentic-container](https://github.com/anthuanvasquez/agentic-container) - Container sandbox based on security, for AI coding agents like GitHub Copilot CLI
 * 👁️ [vision-night](https://github.com/anthuanvasquez/vision-night-vscode) - VS Code theme for high readability, eye strain reduction, and accessibility.
 * ⌚ [countdown](https://github.com/anthuanvasquez/countdown) - A simple countdown webapp.
 * 📝 [devlogs](https://github.com/anthuanvasquez/devlogs) - Generates daily commit reports and sends them to Discord or whatever you want.
