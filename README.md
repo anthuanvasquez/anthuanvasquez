@@ -27,10 +27,10 @@ I care about clean architecture, DDD, DX, a11y, and products that solve real bus
 * ⌚ [countdown](https://github.com/anthuanvasquez/countdown) - A simple countdown webapp.
 * 📝 [devlogs](https://github.com/anthuanvasquez/devlogs) - Generates daily commit reports and sends them to Discord or whatever you want.
 * 📅 [nextcal](https://github.com/anthuanvasquez/nextcal) - Web application that displays a countdown timer to your next Google Calendar event.
-* ℹ️ [anthuan-mcp-server](https://github.com/anthuanvasquez/anthuan-mcp-server) - MCP server with profesional information.
+* ℹ️ [website-mcp-server](https://github.com/anthuanvasquez/website-mcp-server) - MCP server to show profesional information.
 * 🪪 [ng-dynamic-form-field](https://github.com/anthuanvasquez/ng-dynamic-form-field) - POC Angular Dynamic Form Fields.
 * 💻 [dotfiles](https://github.com/anthuanvasquez/dotfiles) - A setup guide and configuration repository for web development.
-* ⌨️ [git-environment](https://github.com/anthuanvasquez/git-environment) - Workspace with SSH and GPG git setup.
+* ⌨️ [git-environment](https://github.com/anthuanvasquez/git-environment) - Git workspace with SSH and GPG setup.
 * 🌎 [website](https://github.com/anthuanvasquez/website) - Personal site based on Nuxt.js.
 
 ## Legacy Projects
