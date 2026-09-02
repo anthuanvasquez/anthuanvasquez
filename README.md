@@ -19,14 +19,16 @@ I care about clean architecture, DDD, DX, a11y, and products that solve real bus
 
 ## Currently Projects
 
-* 🤖 [agentic-container](https://github.com/anthuanvasquez/agentic-container) - Container sandbox based on security, for AI coding agents like GitHub Copilot CLI
+* 🤖 [agents-fleet](https://github.com/anthuanvasquez/agents-fleet) - AI agents orchestration and evaluation with coverage and crap scores.
+* 🤖 [agents-container](https://github.com/anthuanvasquez/agents-container) - Container sandbox based on security, for AI coding agents like GitHub Copilot CLI
+* 🤖 [agent-skills](https://github.com/anthuanvasquez/agents-skills) - AI agent skills collection, can be used with devcontainer as features or plugin.
+* 📦 [devbox](https://github.com/anthuanvasquez/devbox) - Script to configure ubuntu server on WSL to handle tailscale, orca and tools to running agents.
 * 👁️ [vision-night](https://github.com/anthuanvasquez/vision-night-vscode) - VS Code theme for high readability, eye strain reduction, and accessibility.
 * ⌚ [countdown](https://github.com/anthuanvasquez/countdown) - A simple countdown webapp.
 * 📝 [devlogs](https://github.com/anthuanvasquez/devlogs) - Generates daily commit reports and sends them to Discord or whatever you want.
 * 📅 [nextcal](https://github.com/anthuanvasquez/nextcal) - Web application that displays a countdown timer to your next Google Calendar event.
 * ℹ️ [anthuan-mcp-server](https://github.com/anthuanvasquez/anthuan-mcp-server) - MCP server with profesional information.
 * 🪪 [ng-dynamic-form-field](https://github.com/anthuanvasquez/ng-dynamic-form-field) - POC Angular Dynamic Form Fields.
-* 🥷 [skills](https://github.com/anthuanvasquez/skills) - AI agent skills collection, can be used with devcontainer as features.
 * 💻 [dotfiles](https://github.com/anthuanvasquez/dotfiles) - A setup guide and configuration repository for web development.
 * ⌨️ [git-environment](https://github.com/anthuanvasquez/git-environment) - Workspace with SSH and GPG git setup.
 * 🌎 [website](https://github.com/anthuanvasquez/website) - Personal site based on Nuxt.js.
